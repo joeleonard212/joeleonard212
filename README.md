@@ -22,9 +22,8 @@
 ### About
 
 7+ years building cloud solutions for enterprise clients — data pipelines, modern web
-applications, and cutting-edge agentic workflows. Currently deep in **context engineering**
-and **multi-agent systems**, working toward Specs-Driven Development across both open and
-closed-source models.
+applications, and cutting-edge agentic workflows. Working toward Specs-Driven Development
+across both open and closed-source models.
 
 - 🏗️ Lakehouse and warehouse architectures — Medallion, Data Vault, Delta Lake, dbt, orchestrated ETL at scale
 - 🤖 Agentic systems — MCP servers, multi-agent orchestration, context engineering, skills finetuning, RAG pipelines, vector search
