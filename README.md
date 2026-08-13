@@ -29,4 +29,3 @@ across both open and closed-source models.
 - 🤖 Agentic systems — MCP servers, multi-agent orchestration, context engineering, skills finetuning, RAG pipelines, vector search
 - 🌐 Full stack when the data needs a face
 - 🏭 Delivered across luxury fashion, automotive, energy, telco, FMCG, travel and biomedical R&D
-- 🐧 Arch Linux · Neovim · Open Source
